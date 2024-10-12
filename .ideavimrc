@@ -1,1 +1,4 @@
-/mnt/c/Users/gapsa/.ideavimrc
+map gi :action GotoImplementation<CR>
+set relativenumber
+set clipboard+=unnamed
+nnoremap <Space><Space> :action SearchEverywhere<CR>
