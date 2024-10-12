@@ -585,6 +585,15 @@ require('lazy').setup({
         ts_ls = {
 
         },
+        eslint = {
+
+        },
+        java_language_server = {
+
+        },
+        metals = {
+
+        },
         --
 
         lua_ls = {
